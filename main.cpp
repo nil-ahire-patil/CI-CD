@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "ok" << std::endl;
+    std::cout << "ci-cd ok" << std::endl;
     return 0;
 }
