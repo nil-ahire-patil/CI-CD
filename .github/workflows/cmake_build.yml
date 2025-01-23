@@ -1,4 +1,4 @@
-name: CMake on multiple platforms build
+name: Cmake CI
 
 on:
   push:
